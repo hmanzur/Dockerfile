@@ -16,7 +16,7 @@ Clone the Dockerfile you want in your proyect or pipeline
 
 ### On Github Actions
 
-```workflow
+```yml
 - name: Clone Dockerfile repo
   uses: uses: actions/checkout@v2
   with:
