@@ -7,7 +7,7 @@ Clone the Dockerfile you want in your proyect or pipeline
 
 - Node
   - [Express.js](https://github.com/hmanzur/Dockerfile/tree/node/express) `node/express`
-  - [Web App (Angular, Vue, React, etc](https://github.com/hmanzur/Dockerfile/tree/node/webapp) `node/webapp`
+  - [Web App (Angular, Vue, React, etc)](https://github.com/hmanzur/Dockerfile/tree/node/webapp) `node/webapp`
 - Python
   -  [Django](https://github.com/hmanzur/Dockerfile/tree/python/django) `python/django`
 
