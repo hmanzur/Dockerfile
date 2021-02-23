@@ -21,8 +21,8 @@ Clone the Dockerfile you want in your proyect or pipeline
   uses: uses: actions/checkout@v2
   with:
     repository: 'hmanzur/Dockerfile'
-    ref: 'node/express'
+    ref: 'my/branch'
 
 - name: Let's build
-  run: docker build -t express-image .
+  run: docker build -t my-image .
 ```
